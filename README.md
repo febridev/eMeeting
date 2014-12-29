@@ -1,7 +1,7 @@
-e-meeting
+eMeeting
 =========
 
-Aplikasi E-Meeting untuk mengetahui issue yang terjadi di setiap departement
+Aplikasi eMeeting untuk mengetahui issue yang terjadi di setiap departement
 
 Build With
 ==========
