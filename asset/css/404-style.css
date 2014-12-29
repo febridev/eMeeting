@@ -1,0 +1,27 @@
+@font-face{
+	font-family: lato-body;
+	src:url('../font/Lato-Black.ttf');
+}
+
+
+#page{
+	width: 50%;
+	margin: 1% auto;
+	padding-left: 1%;
+}
+
+#page h1{
+	font-family: lato-body;
+	text-align: center;
+}
+
+#page h2{
+	font-family: lato-body;
+	text-align: center;
+}
+
+
+img{
+	text-align: center;	
+}
+
